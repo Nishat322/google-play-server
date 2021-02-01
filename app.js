@@ -29,7 +29,7 @@ app.get('/app', (req,res) => {
 
 });
 
-app.listen(8080,() => {
-    console.log('App listening at server port 8080');
-});
+//work on the sorting and genre logic
+
+module.exports = app;
 
